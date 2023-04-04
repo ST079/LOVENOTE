@@ -1,6 +1,6 @@
 // ===============================typing animation
 var typed = new Typed(".typing",{
-    strings:["Baby","Darling","SweetHeart","Maichang","Chhoila <3"],
+    strings:["Mero Radha","Baby","Darling","SweetHeart","Maichang","Chhoila",""],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
